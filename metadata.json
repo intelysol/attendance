@@ -1,0 +1,6 @@
+{
+  "name": "Intelysol HCM Mobile — Employee Self-Service & Attendance",
+  "description": "Production-oriented mobile application for multi-tenant Laravel HCM SaaS platform with GPS-based branch verification, leave management, payslip vault, and ESS profile.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
